@@ -11,14 +11,14 @@
 •  使用jsoncpp配置文件
 
 ##项目依赖
-'''
+```
 pthread
 jsoncpp
-'''
+```
 
 在项目根目录下创建build目录并进入，
-'''
+```
 cmake 
 make
 ./test
-'''
+```
