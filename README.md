@@ -12,6 +12,8 @@ jsoncpp
 
 
 在项目根目录下创建build目录并进入，
+'''
 cmake 
 make
 ./test
+'''
